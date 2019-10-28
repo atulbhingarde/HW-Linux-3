@@ -41,6 +41,9 @@ Work through the exercises below to understand `--strip-components`.
 
 - **Exercise 2**
   - Use `--strip-components` to extract the `Movies` directory.
+	       _**assuming that the Movies directory needs to be extracted without TarDocs*_
+        `tar -xvf /home/student/Projects/TarDocs.tar TarDocs/Movies --strip-components=1 && find Movies` 
+        ![tar command to extract vmovies folder without TarDocsÍ](extract_movies_folder.png)
 
   - Use `--strip-components` to extract the `Movies/ZOE_0004.mp4` file.
 
