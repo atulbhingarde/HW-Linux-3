@@ -34,7 +34,10 @@ Work through the exercises below to understand `--strip-components`.
 ---
 
 - **Exercise 1**
-  - Run: `tar --help | less`. Search for `--strip-components`.
+  - Run: `tar --help | less`. Search for `--strip-components`. 
+         to get additional help on the _strip_comonents_ 
+	 `tar --help  | col -b | more | grep strip-components`
+![help on strip-components](tar_strip_components_help.png)
 
   - Read the article at: <https://www.gnu.org/software/tar/manual/html_section/tar_51.html>
     - Read up until the line: `The option --strip=2 instructs tar to...`
@@ -43,7 +46,7 @@ Work through the exercises below to understand `--strip-components`.
   - Use `--strip-components` to extract the `Movies` directory.
 	       _**assuming that the Movies directory needs to be extracted without TarDocs*_
         `tar -xvf /home/student/Projects/TarDocs.tar TarDocs/Movies --strip-components=1 && find Movies` 
-        ![tar command to extract vmovies folder without TarDocsÍ](extract_movies_folder.png)
+        ![tar command to extract movies folder without TarDocsÍ](extract_movies_folder.png)
 
   - Use `--strip-components` to extract the `Movies/ZOE_0004.mp4` file.
 
