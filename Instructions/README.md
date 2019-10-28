@@ -46,9 +46,11 @@ Work through the exercises below to understand `--strip-components`.
   - Use `--strip-components` to extract the `Movies` directory.
 	       _**assuming that the Movies directory needs to be extracted without TarDocs*_
         `tar -xvf /home/student/Projects/TarDocs.tar TarDocs/Movies --strip-components=1 && find Movies` 
-        ![tar command to extract movies folder without TarDocsÍ](extract_movies_folder.png)
+        ![tar command to extract movies folder without TarDocs](extract_movies_folder.png)
 
   - Use `--strip-components` to extract the `Movies/ZOE_0004.mp4` file.
+        `tar -xf /home/student/Projects/TarDocs.tar --strip-components=1  TarDocs/Movies/ZOE_0004.mp4  && find Movies -type f`
+        ![tar command to extract movies folder without TarDocs](extract_only_onefile.png)
 
 #### Modifying Archives
 You will often find yourself needing to add, remove, or update files from an existing tarball.

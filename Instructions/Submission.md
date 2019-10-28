@@ -7,7 +7,7 @@
   ![tar command to extract fles](extract_movies.png)
 
   - Extract `Movies/ZOE_0004.mp4`: `your command here`
-  ![tar command to extract only one file](extract_only_onefile.png)
+  ![tar command to extract only one file]ly_onefile.(extract_onpng)
   - Extract files from `TarDocs/Movies` without `TarDoc/Movies` structure
 
 #### Modifying Archives
