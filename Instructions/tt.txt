@@ -1,0 +1,153 @@
+End Chat
+10/28/2019 5:30 PM
+You are chatting with Jose Ricardo. Your case number is 100937907019.
+Thanks for contacting Apple Support. My name is Jose Ricardo. Please give me a moment to look over your information.
+Hi atul! How are you? 
+I am fine thanks for asking
+I am tired of this toy
+I am looking for hammer at the same time, you know what purpose right ?
+how can we proceed ?
+what is your recommendation ?
+I’m sorry for this situation atul. I will be more than glad to assist you with this and find the best solution to get this sorted out. 
+Lets work on this together
+appreciate and like your approach
+Glad to help atul.
+Are you using the same Mac to chat with me?
+yes
+do you want to take control and see
+5:34 PM
+We can try that. Can you hold on for several moments as I do some checking on this?
+5:36 PM
+System Message Just a few more moments. Your Advisor will be right with you.
+ok '
+5:38 PM
+System Message Thank you for your patience. Your Advisor will be with you shortly.
+Thank you for your time atul!
+I’m chatting to my senior advisor about your issue, and in this case I need to connect you to Imee Love so we can further assist you and screen share. Would it be ok if I transfer you over?
+sure
+Connecting you now, have a nice day!
+so far as my problem is resolved .....
+10/28/2019 5:40 PM
+You are chatting with Imee Love. Your case number is 100937907019.
+System Message Please hold while your chat is being transferred.
+Hi, my name is Imee Love. It'll be just a moment while I review the comments you provided.
+Hi
+sure
+5:41 PM
+Hello Atul! I’m a Senior Advisor here at Apple. Hope you're doing well today!
+I understand that you’re chatting with us today due to an issue wherein you’re connecting 2 external displays on this Macbook Air and one display works but the other doesnt, am I correct?
+yes I am doing good but offsite with the mac issue I have been ticked off like anything
+yes you are correct
+I see. I definitely want to get this resolved for you once and for all. Let's look into this together and figure out what happened so you can start using 2 external displays on this mac.
+connecting two monitors is one issue other issue is getting displaylink driver working
+you want to connect to my machine ?
+Oh okay. Now I just wanted to verify, how exactly did you connect both external displays on the mac?
+We may have to do later on but this is more of plug and play issue and we may not need to perform screensharing.
+I have a dell dock that is connected and works with it
+my laptop connects fine
+but the mac does not work
+it does not work here at office nor at home
+at home I tried connecting through dock and usb connectors it did not work
+it keeps on telling me that the displaylink could be connected
+and only thing I could see is two monitors duplicated with same content
+I see. It looks like it definitely has something to do with the Display link driver.
+you can get the fee when you see it (not)working, :( otherwise it is only cribbing from another customer (for you)
+Did you already try to download and install it?
+yes
+but the way the driver makers are asking to check is not confirming that it is installed
+at times it comes up and goes away with the message "display link could not be connected"
+Interesting! So this set up never worked with your mac computer or it was working before and it stopped?
+the display link worked with my mac some years ago
+and then it started malfunctioning/(not working) and not it does not work at all
+5:53 PM
+I see. And you’re already using macOS Catalina, right?
+yes
+I aam scared of keeping my os stale
+Got it! In that case, go to System Preferences->Startup Disk. Let me know the label/name of the startup disk from there. We may need to uninstall the DisplayLink driver and perform steps and reinstall it.
+do you want to do that ?
+I am naive at controlling the machine
+5:56 PM
+I have a program that will allow me to see your screen while we are on this chat. With Screensharing, I'll be able to see your screen, but I can't access your files or control your computer. If there's anything that you don't want me to see on your screen, remove it from view before your session begins. Your session will be recorded for quality purposes.
+No problem. Before we start this Screensharing, are you 18 and above or of legal age in the country of your location? I just wanted to ensure that you’re of legal age to able to use this program.
+I am 60 since I am born ( irrespective of country )
+Got it. Let me go ahead and request it, what is the Apple ID you’re using in iCloud on the Mac under System Preferences?
+hmmmm hope you are not going to share some "weird" thingy right ?
+Oh, certainly not! I won’t be able to share anything nor access your computer and I won’t have control over it for your security as your security is our number one priority here at Apple.
+my apple id is abhingar@bellsouth.net
+Thank you. I just sent the request, let me know if you got it on your mac.
+6:02 PM
+not yet
+It’s connecting from my end.
+you mean you are able to see my screen ?
+Not yet, you would need to accept the invitation once you receive it on your mac.
+you sent it to abhingar@bellsouth.net right ?
+can you put the link here ?
+6:06 PM
+That’s what I used. I won’t be able to provide you the link as our system for Screensharing that works with Catalina requires an iCloud Apple ID to connect.
+Let me try again to request the screensharing here and you confirmed by going to System PReferences > iCloud and the email above is signed in, right?
+6:09 PM
+are you able to see screen ?
+Perfect! I can see it now, kindly click on where my pointer is.
+Click the  logo > Go to System Preferences->Startup Disk.
+6:11 PM
+Got it. So it’s using Macintosh HD as the startup disk.
+yes
+are you able to see both screens ?
+So what we need to do right now is to uninstall DisplayLink driver. This uninstaller app can be found in the macOS Applications folder. But after this step, we would need to boot the mac into Recovery and I do see that we’re chatting on the same mac.
+ok
+Yes, I can see both of them.
+there are total three
+Got it! So let me check one more thing, go back to System Preferences > Display.
+6:15 PM
+I have third screen that is not accepted
+its in portrait mode
+Yeah, I can see that.
+So yeah, we would need to uninstall the Display link driver and boot the mac into recovery for this, since this next step will disconnect our chat. What I can do is set up a callback for you so we can continue troubleshooting without disconnection.
+If this is okay with you, what would be the best time (your Time Zone) and phone number we can call you at?
+what time zone you are ?
+Im in Eastern Time.
+in fact If I get a chance to run home about 20 mins I can connect in exact same setup and we can try
+I am in Atlanta GA
+Oh sounds good! What’s the best time and phone number we can call you at?
+I would say I am ready to work with you and get my issue resolved
+I am really frustrated
+when I expect "no mirror" everything is mirror
+I totally understand where you’re coming from and I really want to get to the bottom of this issue for you but we’re limited in our troubleshooting as we’re chatting on the affected mac.
+ok
+tell me how that is going to change when I go home ?
+its going to be same
+in fact we can do it now if you think we can un install driver and re install
+I can definitely provide you with steps on how to resolve it.
+can we attempt quickly and reconnect ?
+So after you uninstall Display link in the applications folder, boot into macOS Recovery mode following the steps described here:
+
+https://support.apple.com/en-us/HT201314
+https://gather.corp.apple.com/external-link.jspa?url=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201314
+Opens in new window
+recovery mode ?
+will we be wiping all content ?
+scary
+can we see the logs and conclude ?
+We won’t be erasing any content on your mac.
+conclude = take action
+We won’t be needing to check logs here, we do have steps we need to follow after uninstall the Display link and if you’re not comfortable in booting into recovery, I can set up that call for you so we can walk you through it without disconnection, Atul.
+lets do it now
+I am keen to get this resolved
+this is 3rd laptop I am having trouble with
+I mean mac
+two are personal one is company
+I definitely want to resolve this for you once and for all but again, the next step is to reboot the mac into recovery, so let me provide you with steps here as it will disconnect our chat.
+6:27 PM
+So to boot the mac into Recovery, power it off and Turn on your Mac and immediately press and hold Command (⌘)-R. Release the keys when you see an Apple logo, spinning globe.
+Once you see the macOS Utilities screen, click on the Disk Utilities screen and click on the Macintosh HD and Mount it.
+ok
+After mounting it, open Terminal application and issue the following command:
+kextcache -i /Volumes/<VolumeName>
+Note: You must substitute <VolumeName> with name of your disk volume which Macintosh HD when we checked awhile ago. So it should be: 
+kextcache -i /Volumes/Macintosh\ HD
+let me do that only two keys that clumsy looking and R right ?
+You got it! And once that’s done, restart the mac and install DisplayLink Software again and see if it fully resolves your external display issues.
+ok
+will this chat be saved ?
+Alright. Are you able to uninstall the display link application already?
+Yes, it will. Your case ID for today is: 100937907019. I have kept a very detailed notes here so the next advisor will see them and be able to pick up right where we left off and you wont have to re-explain anything.

@@ -71,17 +71,31 @@ In these exercises, you will practice using these flags to update an existing ta
 - Change to the `Projects` directory.
 
 - **Exercise 1**
-
+ 
+root@cyber-security-ubuntu:~/Projects# cp /home/student/Projects/TarDocs.tar
+cp: missing destination file operand after '/home/student/Projects/TarDocs.tar'
+Try 'cp --help' for more information.
+root@cyber-security-ubuntu:~/Projects#  
+root@cyber-security-ubuntu:~/Projects# tar -tvf TarDocs.tar | grep test | grep txt$
+root@cyber-security-ubuntu:~/Projects# tar -uvf TarDocs.tar test1.txt test2.txt
+test1.txt
+test2.txt
+root@cyber-security-ubuntu:~/Projects# tar -tvf TarDocs.tar | grep test | grep txt$
+-rw-r--r-- root/root         7 2019-10-31 16:17 test1.txt
+-rw-r--r-- root/root         6 2019-10-31 16:17 test2.txt
   - Copy `sample.tar` to `update.tar`
+    `cp /home/student/Projects/TarDocs.tar sample.tar`
+    this tar is copied and few files are retained to showw it looks
 
-  - List the contents of `update.tar`.
+  - List the contents of `sample.tar`.
+    ![command to extract movies folder without TarDocs](initial_tar_before_files_are_attached.png)
 
   - Create two files: `test1.txt` and `test2.txt`.
+    `created two files test1.txt and test2.txt`
+  - Append them to `sample.tar`.
 
-  - Append them to `update.tar`.
-
-  - List the contents of `update.tar`.
-
+  - List the contents of `sample.tar`.
+  ![files_appended_and tar listed after append](tar_listed_and_files_added_and_displayed.png)
 - **Exercise 2**
 
   - Update `update.tar` with the latest copy of `test2.txt`.
